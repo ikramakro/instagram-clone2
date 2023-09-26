@@ -14,7 +14,7 @@ class _HomeScreenState extends State<HomeScreen> {
       appBar: AppBar(
         title: Text('data'),
       ),
-      body: Column(
+      body: const Column(
         children: [
           Text('data'),
           Text('data'),
