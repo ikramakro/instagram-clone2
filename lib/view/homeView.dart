@@ -18,6 +18,10 @@ class _HomeScreenState extends State<HomeScreen> {
         padding: EdgeInsets.symmetric(horizontal: 20),
         child: Column(
           children: [
+
+            SizedBox(
+              height: 10,
+            ),
             Flexible(child: Container(),),
             SizedBox(
               height: 25,
@@ -45,6 +49,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   hintText: "Enter your id"
               ),
             ),
+            ElevatedButton(onPressed: (){}, child: Text('Save')),
             Flexible(child: Container())
           ],
         ),
