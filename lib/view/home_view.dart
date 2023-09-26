@@ -16,6 +16,8 @@ class _HomeScreenState extends State<HomeScreen> {
       ),
       body: const Column(
         children: [
+         Icon(Icons.javascript),
+          Icon(Icons.javascript),
           Text('data'),
           Text('data'),
           Text('data'),
