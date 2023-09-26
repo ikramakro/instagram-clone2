@@ -18,13 +18,7 @@ class _HomeScreenState extends State<HomeScreen> {
         children: [
          Icon(Icons.javascript),
           Icon(Icons.javascript),
-          Text('data'),
-          Text('data'),
-          Text('data'),
-          Text('data'),
-          Text('data'),
-          Text('data'),
-          Text('data'),
+
           Text('data'),
           Text('data'),
           Text('data'),
