@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-07-22: Add input sanitization
 - 2023-01-23: Fix typo in config
 - 2022-09-08: chore(middleware): remove dead code
 - 2026-06-03: test(auth): add session handling
