@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-12-04: feat(routes): correct response status codes
 - 2024-07-22: Add input sanitization
 - 2023-01-23: Fix typo in config
 - 2022-09-08: chore(middleware): remove dead code
