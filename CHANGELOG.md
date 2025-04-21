@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-04-21: fix(routes): add rate limiting
 - 2024-12-04: feat(routes): correct response status codes
 - 2024-07-22: Add input sanitization
 - 2023-01-23: Fix typo in config
